@@ -4,4 +4,4 @@
 
 Replicar las  imagenes  de dos cuadrados con distintos colores,  poniendo en práctica tus conocimientos de css y html.
 
-![recursos](assets/img/caja1.jpg)
+![recursos](assents/img/caja1.jpg)
